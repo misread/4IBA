@@ -1,0 +1,3 @@
+Для авторизации в начальном окне:
+Name: admin
+Password: admin

@@ -1,0 +1,108 @@
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ServiceStation.exe.config
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ssSQLiteDS.Designer.cs
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ssSQLiteDS.xsc
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ssSQLiteDS.xsd
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ssSQLiteDS.xss
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ServiceStation.exe
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ServiceStation.pdb
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\EntityFramework.dll
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\EntityFramework.SqlServer.dll
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\System.Data.SQLite.dll
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\System.Data.SQLite.EF6.dll
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\System.Data.SQLite.Linq.dll
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\EntityFramework.xml
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\EntityFramework.SqlServer.xml
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\System.Data.SQLite.xml
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.csprojResolveAssemblyReference.cache
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.about.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.carAdd.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.cars.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.carsAll.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.clientAdd.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.clientEdit.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.clients.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.clientsAll.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.login.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.main.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.orderAdd.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.orders.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.ordersAll.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.Properties.Resources.resources
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.csproj.GenerateResource.Cache
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.exe
+D:\BSU\ServiceStation\ServiceStation\obj\x64\Release\ServiceStation.pdb
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ssSQLite.Designer.cs
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ssSQLite.xsc
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ssSQLite.xsd
+D:\BSU\ServiceStation\ServiceStation\bin\x64\Release\ssSQLite.xss
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\ServiceStation.exe.config
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.exe
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.pdb
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.csprojResolveAssemblyReference.cache
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.about.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.carAdd.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.cars.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.carsAll.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.clientAdd.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.clientEdit.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.clients.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.clientsAll.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.login.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.main.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.orderAdd.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.orders.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.ordersAll.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.Properties.Resources.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.csproj.GenerateResource.Cache
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\ssSQLite.Designer.cs
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\ssSQLite.xsc
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\ssSQLite.xsd
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\ssSQLite.xss
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\ServiceStation.exe
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\ServiceStation.pdb
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\EntityFramework.dll
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\EntityFramework.SqlServer.dll
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\System.Data.SQLite.dll
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\System.Data.SQLite.EF6.dll
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\System.Data.SQLite.Linq.dll
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\EntityFramework.xml
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\EntityFramework.SqlServer.xml
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\bin\x64\Release\System.Data.SQLite.xml
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.search.resources
+D:\BSU\diploma\SSv2.0\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.orderEdit.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\ServiceStation.exe.config
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.exe
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.pdb
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\ssSQLite.Designer.cs
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\ssSQLite.xsc
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\ssSQLite.xsd
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\ssSQLite.xss
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\ServiceStation.exe
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\ServiceStation.pdb
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\EntityFramework.dll
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\EntityFramework.SqlServer.dll
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\System.Data.SQLite.dll
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\System.Data.SQLite.EF6.dll
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\System.Data.SQLite.Linq.dll
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\EntityFramework.xml
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\EntityFramework.SqlServer.xml
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\bin\x64\Release\System.Data.SQLite.xml
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.csprojResolveAssemblyReference.cache
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.about.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.carAdd.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.cars.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.carsAll.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.clientAdd.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.clientEdit.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.clients.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.clientsAll.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.login.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.main.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.orderAdd.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.orderEdit.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.orders.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.ordersAll.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.Properties.Resources.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.search.resources
+d:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.csproj.GenerateResource.Cache
+D:\BSU\diploma\backup_buttons\ServiceStation Project\ServiceStation\obj\x64\Release\ServiceStation.csproj.ResolveComReference.cache
